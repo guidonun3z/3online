@@ -1,0 +1,7 @@
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-34\wiingame\juego\juego\bin\Debug\juego.exe.config
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-34\wiingame\juego\juego\bin\Debug\juego.exe
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-34\wiingame\juego\juego\bin\Debug\juego.pdb
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-34\wiingame\juego\juego\obj\Debug\juego.csprojAssemblyReference.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-34\wiingame\juego\juego\obj\Debug\juego.csproj.CoreCompileInputs.cache
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-34\wiingame\juego\juego\obj\Debug\juego.exe
+D:\--=Isur=--\5to-semestre\LP Avanzado Punto Net\Practica\p-34\wiingame\juego\juego\obj\Debug\juego.pdb
